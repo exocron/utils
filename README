@@ -1,0 +1,7 @@
+I created the crc.c and crc.h files in this repository for a specific program, but, as time went on, I started using it for other programs. Rather than have a crc.c and crc.h sitting in a bunch of different repositories, each with different revisions/bugfixes/etc, I thought it more practical to reference it separatly.
+
+As time goes on, more files will be added to this repository if they fit the requirement of having a very general purpose.
+
+NOTE: As of now, the CRC32 code has not been tested. This will be taken care of shortly. In the mean time, use at your own risk.
+
+Ok, done ranting. Enjoy.
